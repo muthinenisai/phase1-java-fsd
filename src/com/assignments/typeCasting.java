@@ -7,7 +7,7 @@ public class typeCasting {
 	public static void main(String[] args) {
 
 		System.out.println("Implicit Type casting");
-		
+		//Implicit Type casting
 		char a = 'c';
 		System.out.println("value of a:"+a);
 		
@@ -26,7 +26,7 @@ public class typeCasting {
 		System.out.println();
 		
 		System.out.println("Explicit Type casting");
-		
+		//Explicit Type casting
 		double E = 99.6;
 		
 		int F = (int) E;
